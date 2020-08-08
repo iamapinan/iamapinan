@@ -1,5 +1,5 @@
-<h1 align="center"> I am Apinan 😘 </h1>   
-### I love technology and I love to learn new technology too. 
+<h1 align="center"> I am Apinan 😘 </h1> 
+  > I love technology and I love to learn new technology too. 
 
 <img src="iamapinan.jpg">
   
