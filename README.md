@@ -1,4 +1,5 @@
-# I am Apinan 😘 
+<h1 align="center"> I am Apinan 😘 </h1>
+<img src="iamapinan.jpg">
 I love technology and I love to learn new technology too.
 
 | Programming                 | DevOps                               | Management         |
