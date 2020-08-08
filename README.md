@@ -1,9 +1,8 @@
 <h1 align="center"> I am Apinan 😘 </h1> 
 I love technology and I love to learn new technology too. 
 
-<img src="iamapinan.jpg">
-  
- 
+<img src="https://raw.githubusercontent.com/iamapinan/iamapinan/master/iamapinan.jpg">
+
 | Programming                 | DevOps                               | Management         |
 |-----------------------------|--------------------------------------|--------------------|
 | PHP                         | Linux command                        | Project management |
