@@ -1,4 +1,4 @@
-<h1 align="center"> I am Apinan 😘 </h1> 
+### iamapinan
 
 <img src="https://raw.githubusercontent.com/iamapinan/iamapinan/master/Welcome%20to%20iamapinan.png">
 
