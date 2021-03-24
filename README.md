@@ -21,4 +21,4 @@
 - Excel Slip (WordPress Plugin)
 
 ### Contact me
-- Email iamapinan@gmail.com
+- Email [iamapinan(at)gmail(dot)com](mailto:iamapinan@gmail.com)
