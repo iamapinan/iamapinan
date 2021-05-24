@@ -25,3 +25,4 @@
 - Medium https://medium.com/@iamapinan
 - Youtube Channel https://www.youtube.com/channel/UCfBTtP6_vgluRow9iMi-sfg
 - Facebook https://www.facebook.com/9apinan/
+- Podcast https://open.spotify.com/show/5zd6L7d5XjGHfgMl74VFkl
