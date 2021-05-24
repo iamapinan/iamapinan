@@ -22,3 +22,6 @@
 
 ### Contact me
 - Email [iamapinan(at)gmail(dot)com](mailto:iamapinan@gmail.com)
+- Medium https://medium.com/@iamapinan
+- Youtube Channel https://www.youtube.com/channel/UCfBTtP6_vgluRow9iMi-sfg
+- Facebook https://www.facebook.com/9apinan/
