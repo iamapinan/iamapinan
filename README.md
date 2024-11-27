@@ -12,7 +12,7 @@
 | Linux shell script          | Gitlab CI/Github Action/Bitbucket CI |                    |
 | Vuejs                       | VMWare ESXi                          |                    |
 | SASS/LESS                   | Kong API Gateway                     |                    |
-| Lua                         | Nginx                                |                    |
+| AI                          | Nginx                                |                    |
 
 
 ### My Latest Project
