@@ -1,6 +1,8 @@
 # iamapinan 👋
 
-<img src="https://raw.githubusercontent.com/iamapinan/iamapinan/master/Welcome%20to%20iamapinan.png">
+<img src="https://raw.githubusercontent.com/iamapinan/iamapinan/master/ghbanner.png">
+
+I used to be a passionate programmer. Now I'm an executive, but still a passionate programmer at heart. I want to work with passionate young talents, as I love learning and enjoying both work and business.
 
 
 ### My Latest Project
