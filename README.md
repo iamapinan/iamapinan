@@ -1,4 +1,4 @@
-# iamapinan 👋
+# iamapinan 🚀 🎸 🤘🏻
 
 <img src="https://raw.githubusercontent.com/iamapinan/iamapinan/master/ghbanner.png">
 
