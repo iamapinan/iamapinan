@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="og.jpg" alt="iamapinan's profile image" style="border-radius:50%">
   <h1>Hi, I'm Apinan 🚀</h1>
   <h3>🚀 Executive, Builder & Lifelong Coder | Empowering Young Talent</h3>
 </div>
