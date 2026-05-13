@@ -1,32 +1,36 @@
-<div align="center">
-  <h1>Hi, I'm Apinan 🚀</h1>
-  <h3>🚀 Executive, Builder & Lifelong Coder | Empowering Young Talent</h3>
-</div>
+# 👋 สวัสดีครับ ผม Apinan (iamapinan)
+
+<p align="center">
+  <a href="https://github.com/iamapinan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-30-blue?logo=github" alt="Repositories"></a>
+  <a href="https://www.linkedin.com/in/apinan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/iamapinan"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter" alt="Twitter"></a>
+</p>
 
 ---
 
-### 👋 About Me
+## 🌟 About Me
+- **Full‑stack Engineer** – Next.js, Prisma, PostgreSQL, LINE Bot SDK, Loyverse POS
+- **Passionate about** Clean UI, Dark‑theme design & Thai‑centric user experiences
+  
+---
 
-Once a passionate programmer, now an executive who still loves to get hands-on with code. I thrive on learning, collaborating, and empowering young talent. My journey bridges leadership and technical creativity—proving you never really stop being a builder at heart.
-
-- 💼 **Current Role:** Executive (and passionate coder!)
-- 💡 **Passionate About:** Building impactful solutions, mentoring, lifelong learning, and enjoying the journey
+## ✨ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Prisma-399A90?logo=prisma" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs" alt="Node.js"/>
+</p>
 
 ---
 
-### 🛠 Tech & Tools I Love
+## 📈 GitHub Stats
 
-- **Programming:** PHP, JavaScript, Python
-- **Platforms:** WordPress (plugin & theme development), Gracer AI
-- **Other:** Product Management, Team Leadership, Digital Transformation
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=iamapinan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=iamapinan&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamapinan&layout=compact&theme=radical)
 ---
 
-### 🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/email-iamapinan@gmail.com-red?style=flat&logo=gmail)](mailto:iamapinan@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-iamapinan-black?style=flat&logo=medium)](https://medium.com/@iamapinan)
-[![YouTube](https://img.shields.io/badge/YouTube-@IamApinan-red?style=flat&logo=youtube)](https://www.youtube.com/@IamApinan)
-[![Facebook](https://img.shields.io/badge/Facebook-9apinan-1877F2?style=flat&logo=facebook)](https://www.facebook.com/9apinan/)
-[![Podcast](https://img.shields.io/badge/Podcast-Spotify-green?style=flat&logo=spotify)](https://open.spotify.com/show/6MxDmorxysq3oEBDSUDXst)
-
+*<p align="right">**Designed with ❤️ by Apinan**</p>*
