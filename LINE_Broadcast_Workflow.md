@@ -1,5 +1,7 @@
 # Workflow ส่งข้อความและรูปภาพใน LINE Official Account Chat อัตโนมัติด้วย AI Agent
 
+![ภาพปก Workflow การส่งข้อความและรูปภาพใน LINE Official Account Chat อัตโนมัติด้วย AI Agent](line_oa_automation_cover.jpg)
+
 บทความนี้สรุปแนวทางการสร้างระบบช่วยส่งข้อความและรูปภาพหาลูกค้าใน LINE Official Account Chat (chat.line.biz) ทีละห้องแบบอัตโนมัติ โดยที่คุณไม่ต้องเขียนโค้ดเอง เพียงใช้ AI Agent เข้ามาช่วยสร้างและควบคุมการทำงานทั้งหมดผ่านการสั่งงานด้วยข้อความภาษาไทย
 
 ---
