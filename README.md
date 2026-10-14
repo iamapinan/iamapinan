@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Welcome%20to%20iamapinan.png" width="100%" alt="Apinan Woratrakun — black-and-white portrait banner" />
+  <img src="gh-cover.png" width="100%" alt="Apinan Woratrakun — Full-stack Engineer specializing in web experiences, business integrations, and AI workflows" />
 </p>
 
 <h1 align="center">Hi, I'm Apinan.</h1>
