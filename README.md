@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gh-cover.png" width="100%" alt="Apinan Woratrakun — Full-stack Engineer specializing in web experiences, business integrations, and AI workflows" />
+  <img src="https://raw.githubusercontent.com/iamapinan/iamapinan/0f26fa68ecb121734914157accfa445eb6d062bc/gh-cover.png" width="1200" alt="Apinan Woratrakun — Full-stack Engineer specializing in web experiences, business integrations, and AI workflows" />
 </p>
 
 <h1 align="center">Hi, I'm Apinan.</h1>
